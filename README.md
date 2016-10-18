@@ -15,6 +15,7 @@ topic-C
 topic-D
 
 push_test
+pr_test
 
 
 
